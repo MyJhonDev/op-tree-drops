@@ -23,3 +23,4 @@ Coloque esse `.jar` na pasta `mods` do Minecraft Forge 1.20.1.
 ## GitHub Actions
 
 Se não quiser buildar no celular ou PC, envie esse projeto para um repositório GitHub e rode a action `Build Mod`. O `.jar` vai sair nos artifacts.
+# op-tree-drops
